@@ -54,4 +54,12 @@ To replicate our analysis and explore the project, follow these steps:
 ## Contributing
 Contributions to this project are welcome! Feel free to open issues for questions, bug reports, or feature requests. If you'd like to contribute code, please follow the standard open-source contribution guidelines.
 
+### Note
+
+This project was completed as part of my Data Science virtual programme and the provided code and analysis techniques are for educational purposes.
+
+## Acknowledgements
+
+We would like to thank the British Airways & Forage for providing the opportunity to work on this insightful project.
+
 Let's work together to drive informed decisions and enhance the flight booking experience at British Airways! ✈️📊🚀
